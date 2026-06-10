@@ -1,6 +1,0 @@
-{
-  "name": "GitHub Pages Deployment Guide",
-  "description": "A highly interactive, beautiful developer portfolio card and step-by-step tutorial guiding you on how to compile and deploy your website directly to GitHub Pages.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
